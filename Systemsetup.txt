@@ -1,0 +1,6 @@
+Download latest verstion of python from Python.org
+And with the help of 'pip' install all the essential libraries.
+essential libraries are :  
+    Numpy,Pandas,Matplotlib, Seaborn,Scikit-learn,yfinance.
+Used 'Jupyter notebook' & 'google colab' for better understanding and visualization of output.
+I used RandomForest Classification model for better understanding.
